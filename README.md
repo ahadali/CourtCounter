@@ -9,4 +9,6 @@
 
 
 # Description
+* This app is a multiplayer game where a player has to tap on the particular points button to increase their score.
+* The player with the highest score after the timer has finished will be the winner.
 
